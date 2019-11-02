@@ -33,8 +33,8 @@ html {
   width: 100%;
 }
 .pads > div {
-  width: 100px;
-  height: 100px;
+  width: 12rem;
+  height: 12rem;
   flex: 1;
 }
 .pad1 {
@@ -72,8 +72,8 @@ html {
 .visual > div {
   z-index: -1;
   position: absolute;
-  width: 50px;
-  height: 50px;
+  width: 3rem;
+  height: 3rem;
   border-radius: 50%;
 }
 @media screen and (min-width: 768px) {
